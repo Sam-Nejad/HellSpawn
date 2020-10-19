@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=leveled
+comment1.target=Enemy(int)
+comment2.params=
+comment2.target=java.lang.String\ randomName()
+comment3.params=
+comment3.target=java.lang.String\ randomMantle()
+comment4.params=
+comment4.target=void\ stats()
+comment5.params=s
+comment5.target=int\ roll(int)
+numComments=6

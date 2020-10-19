@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ mantle
+comment1.target=Player(java.lang.String,\ java.lang.String)
+comment2.params=attack
+comment2.target=java.lang.String\ status(int)
+comment3.params=
+comment3.target=void\ stats()
+numComments=4
