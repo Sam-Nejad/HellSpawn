@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Fights
-comment1.params=one\ description
-comment1.target=void\ battleground(Player,\ java.lang.String)
-comment2.params=one\ two
-comment2.target=java.lang.String\ attack(Characters,\ Characters)
-comment3.params=one\ two
-comment3.target=void\ battle(Player,\ Characters)
-numComments=4

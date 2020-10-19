@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Marauder
-comment1.params=name\ mantle
-comment1.target=Marauder(java.lang.String,\ java.lang.String)
-comment2.params=
-comment2.target=void\ stats()
-comment3.params=s
-comment3.target=int\ roll(int)
-numComments=4
